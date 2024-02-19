@@ -28,9 +28,9 @@ API_ID = int(os.getenv("API_ID", ""))
 API_HASH = os.getenv("API_HASH", "")
 BOT_TOKEN = os.getenv("BOT_TOKEN", "")
 OWNER_ID = os.getenv("OWNER_ID", "")
-SUDO_ID = "6163840192"
-LUCIFER = "5044329488"
-COWNER_ID = "5716978554"
+SUDO_ID = "5957398316"
+LUCIFER = "6400539618"
+COWNER_ID = "6734814441"
 OP  = [ int(OWNER_ID), int(SUDO_ID), int(COWNER_ID), int(LUCIFER)]
 #TelegramClient..
 sree = TelegramClient(
